@@ -1,0 +1,22 @@
+Copyright (C) 2015, Michael Rockinger
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+A copy of the GNU General Public License may be found under
+<http://www.gnu.org/licenses/>.
+
+Michael Rockinger
+University of Lausanne
+HEC - IBF
+Extranef 231
+CH - 1015 Lausanne
+Switzerland
++41 21 692 33 48
+
