@@ -1,6 +1,7 @@
 function [axhat,bxhat,kthat,qxMhat] = LC1(qxt)
 % plain Lee-Carter model
 % estimates log(q_{x,t} = a_x + b_x \kappa_t
+% Under Gaussian innovations, estimate via Singular Value Decomposition
 % x=1,...,N, t=1,...T.
 % constaints_ \sum_x bx=1, \sum_t \kappa_t=0
 % Input
