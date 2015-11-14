@@ -77,7 +77,6 @@ yearc  = yearv(ySidx:yEidx);  %
 
 printParameters(axhat,bxhat,kthat,agec,yearc,qxM);
     
-figure()
 plotqandD(qxM,qxMhat,agec);
 
 
